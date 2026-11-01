@@ -1,5 +1,5 @@
 # MDU_redovisningar---python-kurs-HT-2026
-Veckoredovisningarna för python kursen på MDU.
+Veckoredovisningarna för python kursen på MDU, men även lösningar på andra problem!
 
 
 ## Index för vilka uppgifter gäller:
